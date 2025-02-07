@@ -1,5 +1,5 @@
 {
-    "name": "@elizaos/plugin-elfa-ai",
+    "name": "@elizaos-plugins/plugin-elfa-ai",
     "version": "0.1.0",
     "description": "Elfa AI APIs for ElizaOS",
     "main": "dist/index.js",
